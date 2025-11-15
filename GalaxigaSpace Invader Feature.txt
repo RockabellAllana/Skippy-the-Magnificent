@@ -4,3 +4,7 @@ Feels like a safe place to start since I can use what I already know and build o
 
 First things first, according to my research, is that I need to learn to create an API that the minigame can run on. I am not expecting to be too flashy, my coding skills are in their infancy, but it will be fun to build! 
 
+After some deliberation, and to keep it from getting too heavy, I think using Phaser would be my best option, allowing Skippy's menu to launch the game directly to the desktop or browser. It should also allow it to be cross-platform between Windows, Mac and Linux OS
+
+Just did about an hour on it, its a little complex but should be easy to tinker with over time
+
