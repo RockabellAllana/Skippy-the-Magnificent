@@ -1,0 +1,6 @@
+Galaxiga/Space Invader Feature
+
+Feels like a safe place to start since I can use what I already know and build on it instead of fully learning an entirely new skill to create it. 
+
+First things first, according to my research, is that I need to learn to create an API that the minigame can run on. I am not expecting to be too flashy, my coding skills are in their infancy, but it will be fun to build! 
+
