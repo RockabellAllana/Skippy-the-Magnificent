@@ -1,0 +1,18 @@
+Intro
+
+I suppose a good way to keep track of this is to create a txt file for each step in creating our beloved soda can.
+
+This is the intro. 
+
+So far the sections include:
+
+~A digital doll of Skippy
+~A lottery number generator
+~A dialogue deal for him 
+~A feature that allows him LOOSE interpretation of your actions
+~An accessible Menu probably at his center to select features
+~A "rest" mode where he sits as a soda can in the corner of your screen
+~An opening animation sequence between his "rest" mode and the reactive doll
+~An inspirational quote library with random and triggerable features
+~A fake stock market generator with faux languages
+~A playable minigame feature akin to Galaxiga or Space Invaders
